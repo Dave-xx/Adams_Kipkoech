@@ -38,7 +38,7 @@ Tips for building efficient data pipelines
 
 
 📫 How to reach me:
-LinkedIn: Adams' LinkedIn Profile
+LinkedIn:https://shorturl.at/Ggder
 Email: adamskipkoechk@gmail.com
 
 ⚡ Fun fact:
